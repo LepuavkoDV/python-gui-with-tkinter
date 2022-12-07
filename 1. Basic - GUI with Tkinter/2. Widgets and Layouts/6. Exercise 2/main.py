@@ -4,10 +4,13 @@ window = Tk()
 window.title("Exercise 2")
 
 topFrame = Frame(window)
-# TODO declare/create your button frames here
-
+middleFrame1 = Frame(window)
+middleFrame2 = Frame(window)
+bottomFrame = Frame(window)
 topFrame.pack()
-# TODO pack your button frames into the window
+middleFrame1.pack()
+middleFrame2.pack()
+bottomFrame.pack()
 
 text1 = Label(topFrame, text="This application demonstrates frame layout")
 # TODO make your button objects here (all 9 of them!)
