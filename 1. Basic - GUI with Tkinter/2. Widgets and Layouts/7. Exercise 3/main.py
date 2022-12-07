@@ -4,14 +4,22 @@ window = Tk()
 window.title("Exercise 3")
 
 top_frame = Frame(window)
-# TODO declare/create your frames here
+left_frame = Frame(window)
+right_frame = Frame(window)
 top_frame.pack()
-# TODO pack your frames here
+left_frame.pack(side='left')
+right_frame.pack(side='right')
 text1 = Label(top_frame, text="This application demonstrates frame layout")
-# TODO create your second Label here
-# TODO create your 4 buttons here
-
+text2 = Label(right_frame, text='text 2')
+button1 = Button(left_frame, text='button 1', fg='black')
+button2 = Button(left_frame, text='button 2', fg='black')
+button3 = Button(left_frame, text='button 3', fg='black')
+button4 = Button(left_frame, text='button 4', fg='black')
 text1.pack()
-# TODO don't forget to pack all your new widgets!
+button1.pack(side='top', anchor='nw')
+button2.pack(side='right')
+button3.pack(side='left')
+button4.pack(side='right')
+text2.pack()
 
 window.mainloop()
