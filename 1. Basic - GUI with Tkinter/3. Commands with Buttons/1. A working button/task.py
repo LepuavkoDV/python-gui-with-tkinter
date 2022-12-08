@@ -3,7 +3,7 @@ from tkinter import *
 
 
 # 2. define functions
-def # TODO choose an name for your function.():
+def fun():
     print("Hello there, I am working")
 
 
@@ -11,7 +11,7 @@ window = Tk()
 window.title("Clicking application")
 window.geometry("300x350")
 
-button1 = # TODO add the code to create a button.
+button1 = Button(window, text="click me", fg='black', command=fun)
 button1.pack()
 
 window.mainloop()
