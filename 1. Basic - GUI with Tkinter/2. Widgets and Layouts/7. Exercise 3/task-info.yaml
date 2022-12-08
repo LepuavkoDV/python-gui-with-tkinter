@@ -3,7 +3,7 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 146
+  - offset: 219
     length: 0
     placeholder_text: '# TODO declare/create your frames here'
     initial_state:
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: CVPFtxSfLFx8ooNjFUERod+J6iCEcOTNAZqx39OMrqqCo0wnE0Yr7pi9vAmZ0IDJ81is2ATEhCqZb76UMQmDZLYWUq11V0asZiwNI2nxBfX42T/Pljd3ADOrZL8JG8jwwKr3iIYfzZmqwGU7okofYhWLuV1rkEwskXcKFprZRzKk+zOt8mwk0O23/YEPzpQd
-  - offset: 223
+  - offset: 366
     length: 1
     placeholder_text: '# TODO pack your frames here'
     initial_state:
@@ -23,7 +23,7 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: 8UCcyXhQHwPLSJIMy29sHdi37EdjNf47f9NQdAI5wNjbr+2ELBl6ke0qALbXHLRYUERnPSgF2zSOXzFUiDLVFztVTogIy/8/Nw7/kC47PIVuIf8orbY2BkvRw7jAeqRn6rdXe5kB2Tp6S40PAhzMoA==
-  - offset: 298
+  - offset: 441
     length: 42
     placeholder_text: '# TODO create your second Label here'
     initial_state:
@@ -33,7 +33,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: +E0qwdD066c6Bc9XpEe4K4B4w2UdQTTKRGFuYBzMcycek8mLRIFObImI+x7VisJMEeSObg7CDoaE2wHDbyoTlo9yDFk8lvlCJ6G+sjLNXK8=
-  - offset: 298
+  - offset: 441
     length: 42
     placeholder_text: '# TODO create your 4 buttons here'
     initial_state:
@@ -43,14 +43,14 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: YNPLm2QUJTtHXMNC94Bj23vKlqn8Dnj8+B4m4KvLoEjzIFcdX05XIHAgqHuachHzcxcN8jSimYkYB2pi/TThiilFCBAjgxiaLgSzm8RVeLhbv8shxKqzUsa6xyRbyCI3w7F5XMDMjGgdbXmvLYDlkx0DKI4uxu2Hdj3DtPW0kbveBi3s8W8SRVTngdmrf7LdfAhR39NwVhJZN1sDmVO1e1g7of55Y9iDnPPgnylSYeAFpS1cothNK5JkncyrmgWOIStDx2NcvlUPtB6NeiHInuSjRnQ12ysU2/4LI5ZDrRLN8HlQJ7CjDwPcYQaSPbHBcM9cZoF9xPIWXR7FCiJS1g==
-  - offset: 623
-    length: 93
+  - offset: 777
+    length: 102
     placeholder_text: '# TODO don''t forget to pack all your new widgets!'
     initial_state:
       length: 49
       offset: 337
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: OhzxD9ftdCUZPuEtAYrpECmz4eew31Wz6srZnv5IcXMiuc1lhRIUoIMVp/wuR+NNF/mWpHsSgkcCxJdIoQbQzFHAOTds+Sn36NcCNQj2nzpRm4pRaI5xdQ+4Xm6d9FmK2AFbPBt82my8YiACn9/bWJ4Qh3Xvt9UUoQ7yqTJ9RdI=
   encrypted_text: d+D+QzTJQMiLAT8kopI+L780i7iXfTKFoiaaXTe1Te6bS/3MgkqRdHe5UYwFGtwBNmCNQD6K87RWj8zUPH1WztVnXGQnPQyCqOnkjqm59dK0o4R5ttYQfHviZlzyNnSacfsm08+wj+PcpKb+jDIfoLxGoMxjLAtX0aQ38oqh4+iBq2UQXfKsJE10JEQB9S6GJ/unwomAKGC/R0d6YMRaW5P9psmCWppO/a1awekdMHMhjG70bMODlLFpZze5s2tHPAnDecOQBwj/STfUH7FMXtMkdFCHb1XSiavOCG+Fo+NuxLdHAbtfYr+4kZ+Olx75OylbDo1KCjk1hF1PhUplUXyxJ3hlUhURKVfkafSQbE+zmsMK7fZ+68/jSSTv/EvLEX4vXT5Ut7/snt4v1ZrysI5Xwi65t3ACHGUUqFzZf+S+ioBLlhZvGWxXcLDUfJMhPA8PJW/NcfsNqxgkTs0csOte/bHszMbIEdwvMZsFQJG2KY0wnuwdqU4GCWn7FiOGXhobdNJgitPys01ZF59GDSkGRlUGc2+Ynix7OpOUMhA=
@@ -77,5 +77,7 @@ files:
   visible: false
   learner_created: false
 status: Solved
+feedback:
+  time: "Thu, 08 Dec 2022 10:31:04 UTC"
 record: -1
 post_submission_on_open: true

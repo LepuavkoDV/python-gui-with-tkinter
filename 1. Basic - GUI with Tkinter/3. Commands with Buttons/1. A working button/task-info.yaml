@@ -11,7 +11,7 @@ files:
       offset: 79
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: W5C9rT41590UXxzhPONLCw==
   - offset: 253
     length: 39
@@ -21,7 +21,7 @@ files:
       offset: 253
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: PwXphS46cYbMgv6cCTKJCtV3Wi9qNhgTH914b7obNTxjr2v9GeAAGxsGyqWwU/xDKslFrYlnPCv0ztf+PeVQyw==
   encrypted_text: W3iylnKF1QTgAUuchMBujtNqNdHXqBhoX3Fz2iqJnAMzHcsjExHAyNimJ+n03EYS1PGEyS59Bsf+sGMWLothysaIaRiVdwtt/ak4L8XGn2b6OnXmNOLykQ35+kBxclJn+ctFCNl5ewKOEX8srjN2gr0i9sXqNAdABDi/zyMIyCncmpfcZ+zXTVW6OkF5JVu86darN6mYFOHmvko2gGlt+Dsu/Qlz/q4kaxhEfvW0xnL1ZBXd0f+DX3FABKtv0bMwpZ4+wd1LDmxga8O8diDJy7atgb4dP5CV/1vLr7b/b5nbh/3clA2w6VrmDbphT83F7ODVZYBGXMkJev+hxf55aVTEwJ1WTrYrzxRscaO4u7KdLozfueTfOEMhk/FiOGm5dtUsjfdb2IwsrCM/h3eTVpL0fTy1b3i/SSn2v6T0SzWRSbFyzTvfhmbB7BGo3aQB
   learner_created: false
@@ -43,6 +43,6 @@ files:
 - name: expected_output_win.png
   visible: false
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
 post_submission_on_open: true
