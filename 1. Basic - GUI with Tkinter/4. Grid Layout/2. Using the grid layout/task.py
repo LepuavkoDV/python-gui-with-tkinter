@@ -19,6 +19,11 @@ close_button = Button(window, text="Close")
 username_label.grid(row=0, column=0)
 username_entry.grid(row=0, column=1)
 # TODO place the remaining widgets using the grid layout
+password_label.grid(row=1, column=0)
+password_entry.grid(row=1, column=1)
+submit_button.grid(row=2, column=0)
+clear_button.grid(row=2, column=1)
+close_button.grid(row=2, column=2)
 
 # open window
 window.mainloop()
