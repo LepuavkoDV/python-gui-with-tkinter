@@ -4,17 +4,17 @@ files:
   visible: true
   placeholders:
   - offset: 145
-    length: 87
+    length: 145
     placeholder_text: '# TODO create the welcome message and configure the text attribute
       of the message_label'
     initial_state:
       length: 87
       offset: 145
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: cbf9eTkS61iBG/6GjntUhC0rqnoqh8MEDgySoR2O74dHy8yXVpWeV/EwsZ0MuXz9ik4M0FhPZ6tRLgyDjQf9KJQv6AFV3fxeR1kQbSE62p8ywuMn2u0gZAZwBnSn96YqNyVttIf+A2Bg7vlK8bj77ZQmpMNxFS+GGQcAEwQh1LQ=
-  - offset: 337
+  - offset: 395
     length: 26
     placeholder_text: '# TODO Create your widgets'
     initial_state:
@@ -49,6 +49,6 @@ files:
   learner_created: false
 status: Solved
 feedback:
-  time: "Fri, 09 Dec 2022 07:53:58 UTC"
+  time: "Mon, 12 Dec 2022 09:46:50 UTC"
 record: -1
 post_submission_on_open: true
